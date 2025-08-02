@@ -35,10 +35,14 @@ Edit
 todo-flask-app/
 │
 ├── app.py               # Main Flask application
+
 ├── requirements.txt     # Python dependencies
+
 ├── Dockerfile           # Docker configuration
+
 ├── templates/
 │   └── index.html       # HTML frontend
+
 └── static/
     └── style.css        # CSS styling
 
